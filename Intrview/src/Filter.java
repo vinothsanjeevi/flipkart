@@ -16,5 +16,10 @@ public class Filter {
 		
 		System.out.println(a);
 	}
+	
+	public void vshs() {
+		
+		System.out.println();
+	}
 
 }
